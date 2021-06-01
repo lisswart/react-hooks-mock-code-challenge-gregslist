@@ -41,6 +41,18 @@
       "description": "Treadmill Parts For Free",
       "image": "./images/treadmill.jpg",
       "location": "East Flatbush"
+    },
+    {
+      "description": "desk lamp",
+      "image": "image of desk lamp",
+      "location": "toms river",
+      "id": 8
+    },
+    {
+      "description": "airfryer",
+      "image": "image of airfryer",
+      "location": "philadelphia",
+      "id": 9
     }
   ]
 }
